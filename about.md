@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: O mnie
 permalink: /about/
 ---
 
-Some information about you!
+Jestem budowniczym społeczności.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+### Kontakt
 
 [email@domain.com](mailto:email@domain.com)
