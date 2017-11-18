@@ -1,11 +1,11 @@
 ---
 layout: page
-title: O mnie
+title: Altruistan?
 permalink: /about/
 ---
 
-Jestem budowniczym społeczności.
+Info
 
-### Kontakt
+### ->
 
 [email@domain.com](mailto:email@domain.com)
